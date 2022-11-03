@@ -3,6 +3,16 @@
         <nom>Joan</nom>
         <cognom>Perez</cognom>
         <direccio>C/Pau Claris 21</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>joanp@gmail.com</email>
         <telefon>653234781</telefon>
+    </empleat>
+    <empleat>
+        <nom>Sergi</nom>
+        <cognom>Martinez</cognom>
+        <direccio>C/Gran de Sant Andreu 23</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>sergima@hotmail.com</email>
+        <telefon>678624962</telefon>
     </empleat>
 </empleats>
