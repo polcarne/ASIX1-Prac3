@@ -1,0 +1,23 @@
+{
+    "empleats": {
+      "empleat": [
+        {
+          "nom": "Joan",
+          "cognom": "Perez",
+          "direccio": "C/Pau Claris 21",
+          "ciutat": "Barcelona",
+          "email": "joanp@gmail.com",
+          "telefon": 653234781
+        },
+        {
+          "nom": "Sergi",
+          "cognom": "Martinez",
+          "direccio": "C/Gran de Sant Andreu 23",
+          "ciutat": "Barcelona",
+          "email": "sergima@hotmail.com",
+          "telefon": 678624962
+        }
+      ]
+    }
+   
+  }
